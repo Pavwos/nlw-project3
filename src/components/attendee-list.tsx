@@ -21,7 +21,7 @@ export function Attendee(){
               <th className="py-3 px-4 text-sm font-semibold text-left">Código</th>
               <th className="py-3 px-4 text-sm font-semibold text-left">Participante</th>
               <th className="py-3 px-4 text-sm font-semibold text-left">Data da Inscrição</th>
-              <th className="py-3 px-4 text-sm font-semibold text-left">Data do CheckIn</th>
+              <th className="py-3 px-4 text-sm font-semibold text-left">Data do Checkin</th>
               <th style={{ width: 64 }} className="py-3 px-4 text-sm font-semibold text-left" ></th>
             </tr>
           </thead>
